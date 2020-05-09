@@ -2,7 +2,7 @@ const initialData = {
   sections: {
     "task-1": {
       id: "task-1",
-      content: "Take Out the Garbage"
+      content: "Aminullah Jalal piano fix"
     },
     "task-2": {
       id: "task-2",
